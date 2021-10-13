@@ -1,0 +1,14 @@
+/* apply a background colour to the whole page (or the body tag)*/
+body{
+    background-color:bisque;
+}
+
+/* target all paragraphs to be a specific font colour */
+p, h2{
+    color:blue;
+}
+/* target specifically the paragraph inside the footer */
+footer p{
+    color:gray;
+    font-size: 12px;
+}
